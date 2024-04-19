@@ -1,0 +1,34 @@
+namespace DictionaryBenckmark.Enums
+{
+  public enum Audi
+  {
+    A1,
+    A2,
+    A3,
+    A4,
+    A5,
+    A6,
+    A7,
+    A8,
+    ETron,
+    Q1,
+    Q2,
+    Q3,
+    Q4,
+    Q5,
+    Q6,
+    Q7,
+    Q8,
+    RS4,
+    RS5,
+    RS6,
+    RS7,
+    TT,
+    S3,
+    S4,
+    S5,
+    S6,
+    S7,
+    S8
+  }
+}

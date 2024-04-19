@@ -1,0 +1,36 @@
+namespace DictionaryBenckmark.Enums
+{
+  public enum Mercedes
+  {
+    AClass,
+    CClass,
+    Cla,
+    EClass,
+    EQE,
+    EQS,
+    SClass,
+    EQA,
+    EQB,
+    EQC,
+    EQSSuv,
+    GClass,
+    GLA,
+    GLB,
+    GLC,
+    GLS,
+    AmgGT,
+    AmgSL,
+    CLE,
+    AmgOne,
+    BClass,
+    CitanVan,
+    Viano,
+    EQT,
+    EQV,
+    Sprinter,
+    Vito,
+    Citan,
+    Actros,
+    Arocs
+  }
+}

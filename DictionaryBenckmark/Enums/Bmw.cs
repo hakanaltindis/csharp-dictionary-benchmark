@@ -1,0 +1,31 @@
+namespace DictionaryBenckmark.Enums
+{
+  public enum Bmw
+  {
+    Series1,
+    Series2,
+    Series3,
+    Series4,
+    Series5,
+    Series6,
+    Series7,
+    Series8,
+    X1,
+    X2,
+    X3,
+    X4,
+    X5,
+    X6,
+    X7,
+    XM,
+    Z4,
+    I3,
+    I4,
+    I5,
+    I7,
+    IX1,
+    IX2,
+    IX3,
+    IX
+  }
+}
