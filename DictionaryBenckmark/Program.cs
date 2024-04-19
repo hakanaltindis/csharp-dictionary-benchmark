@@ -4,5 +4,3 @@ using BenchmarkDotNet.Running;
 using DictionaryBenckmark;
 
 _ = BenchmarkRunner.Run<DictionaryBenchmarking>();
-
-Console.ReadLine();
